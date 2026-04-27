@@ -6,6 +6,10 @@ The objective of this project is to analyze customer purchasing behavior and ide
 
 This dashboard helps understand how income, age, commute distance, gender, marital status, education, and region affect customer buying decisions.
 
+## Dashboard Preview
+
+![Bike Sales Dashboard](Project_1_SS_Bike Sales.png)
+
 ## Tools Used
 
 * Microsoft Excel
