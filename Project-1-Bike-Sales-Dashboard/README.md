@@ -8,7 +8,7 @@ This dashboard helps understand how income, age, commute distance, gender, marit
 
 ## Dashboard Preview
 
-![Bike Sales Dashboard](./Project_1_SS_Bike Sales.png)
+![Bike Sales Dashboard](https://raw.githubusercontent.com/slokesh-analytics/Excel-Projects/refs/heads/main/Project-1-Bike-Sales-Dashboard/Project_1_SS_Bike%20Sales.png)
 
 ## Tools Used
 
