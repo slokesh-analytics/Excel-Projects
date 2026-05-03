@@ -1,4 +1,4 @@
-# FNP Sales Analysis Project
+# Ferns N Petals Sales Analysis Project
 
 ## 📌 Project Overview
 
