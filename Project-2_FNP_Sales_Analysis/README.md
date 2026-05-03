@@ -1,67 +1,70 @@
-# Ferns N Petals Sales Analysis Project
+# FNP Sales Analysis Dashboard
 
-## 📌 Project Overview
+## Project Objective
 
-This project involves a comprehensive sales analysis for **Ferns and Petals (FNP)**, a leading gifting platform. The objective was to analyze sales data from 2023 and transform raw transactional data into meaningful business insights using Advanced Excel.
+The objective of this project is to analyze sales performance for **Ferns N Petals (FNP)** and identify the key factors influencing revenue, customer spending behavior, product performance, and delivery efficiency.
 
-The project focused on understanding seasonal sales trends, customer spending behavior, delivery performance, and product category performance across major occasions such as Diwali, Raksha Bandhan, Holi, and Valentine’s Day.
-
-The complete workflow followed:
-
-**Power Query (ETL) → Power Pivot → DAX Measures → Pivot Tables → Interactive Dashboard**
-
-This approach helped build a business-focused dashboard for KPI tracking and strategic decision-making.
+This dashboard helps understand how occasions, product categories, cities, order trends, and delivery time impact overall business performance and customer satisfaction.
 
 ---
 
-## 📊 Business Questions Addressed
+## Dashboard Preview
 
-The analysis focuses on answering key business questions, including:
-
-* What is the total revenue and average customer spending?
-* Which months and occasions generate the highest sales?
-* Which product categories contribute the most revenue?
-* How does delivery time vary across product categories?
-* Which cities generate the highest order volume and revenue?
-* What are the top-performing products based on sales value?
-* How does customer order behavior change during festive seasons?
+(Attach your dashboard screenshot here)
 
 ---
 
-## 🛠️ Tools & Techniques Used
+## Tools Used
 
-* **Microsoft Excel** – Primary tool for end-to-end analysis and dashboard development
-* **Power Query (ETL)** – Used for data extraction, cleaning, transformation, handling null values, removing duplicates, and standardizing date/time formats
-* **Power Pivot** – Used for building the data model and managing relationships between tables
-* **DAX Measures** – Created business KPIs such as Total Sales, Average Order Value, Total Orders, and Delivery Efficiency
-* **Pivot Tables & Pivot Charts** – Used for summarizing performance and building analytical views
-* **Interactive Dashboard** – Built using KPI cards, charts, and slicers for dynamic business reporting
-
----
-
-## 📈 Key Insights
-
-* **Revenue Peak**: February and August emerged as the highest-performing months, mainly driven by Valentine’s Day and Raksha Bandhan
-* **Top Performer**: The **Colors** category was the top revenue generator among all product categories
-* **Delivery Performance**: The average delivery time across all categories was approximately **5.5 days**
-* **Operational Gap**: Cake products showed the highest delivery lead time, indicating a supply chain improvement opportunity
-* **Geographic Reach**: Top-performing cities contributed a major share of total orders and revenue, supporting focused regional strategies
+- Microsoft Excel  
+- Power Query (ETL)  
+- Power Pivot  
+- DAX Measures  
+- Pivot Tables  
+- Pivot Charts  
+- Slicers  
+- Dashboard Design  
+- Data Cleaning  
+- Data Visualization  
+- KPI Reporting  
+- Dashboard Storytelling  
 
 ---
 
-## 📂 Repository Contents
+## KPIs Analyzed
 
-* `FNP_Sales_Analysis.xlsx` – Complete workbook containing Power Query steps, Power Pivot model, DAX measures, Pivot Tables, and final dashboard
-* `FNP_Problem_Statement.pdf` – Business requirements and project objective reference
-* `Dashboard_Screenshot.png` – Final interactive dashboard preview
-* `README.md` – Complete project documentation
+- Total Revenue  
+- Average Order Value  
+- Total Orders  
+- Average Delivery Time  
+- Occasion-wise Sales Performance  
+- Category-wise Revenue Analysis  
+- Product Performance Analysis  
+- City-wise Sales Trends  
+- Monthly Revenue Trends  
+- Delivery Efficiency Analysis  
 
 ---
 
-## 🚀 How to Use
+## Key Insights
 
-1. Download the `FNP_Sales_Analysis.xlsx` file
-2. Open the file in Microsoft Excel
-3. Go to the **Dashboard** sheet to explore the final interactive dashboard
-4. Open **Queries & Connections** to review the Power Query ETL process
-5. Open **Power Pivot** to review the DAX measures and data model
+- February and August generated the highest sales due to major gifting occasions like Valentine’s Day and Raksha Bandhan  
+- Diwali and Raksha Bandhan showed strong seasonal sales impact across multiple product categories  
+- The **Colors** category was the highest revenue-generating category among all products  
+- The average delivery turnaround was approximately **5.5 days** across all orders  
+- Cake products showed higher delivery lead time, indicating operational improvement opportunities  
+- Top-performing cities contributed a major share of total revenue and customer orders  
+
+---
+
+## Business Recommendation
+
+The company should focus on inventory planning and marketing campaigns during high-demand festive seasons to maximize revenue.
+
+Improving delivery efficiency for delayed product categories like Cakes can enhance customer satisfaction and operational performance.
+
+Expanding high-performing product categories and strengthening presence in top-performing cities can further support business growth.
+
+---
+
+**Project by Lokesh Kr Sharma**
