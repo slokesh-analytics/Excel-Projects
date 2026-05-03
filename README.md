@@ -79,4 +79,4 @@ This portfolio represents that mindset across every project.
 
 ## Portfolio Project by
 
-**Lokesh Sharma**
+**Lokesh Kr Sharma**
