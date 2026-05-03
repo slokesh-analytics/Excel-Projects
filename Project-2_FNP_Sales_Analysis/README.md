@@ -10,7 +10,7 @@ This dashboard helps understand how occasions, product categories, cities, order
 
 ## Dashboard Preview
 
-(Attach your dashboard screenshot here)
+![FNP Sales Dashboard](fnp_sales_analysis_dashboard.png)
 
 ---
 
