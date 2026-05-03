@@ -1,65 +1,70 @@
-# Excel Analytics Portfolio
+Welcome to my Excel Analytics Portfolio.
 
-Welcome to my Excel Projects Repository.
+This repository showcases business-focused Excel projects across three high-impact domains: Sales Analytics, Finance Analytics, and HR Analytics.
 
-This repository contains business-focused Excel projects ranging from beginner to advanced level, designed to solve real-world problems through data analysis, dashboard creation, KPI tracking, and strategic business insights.
+Each project is built using a business-first approach — not just creating dashboards, but solving real business problems through data analysis, KPI tracking, reporting, and strategic recommendations that support better decision-making.
 
-## Skills Demonstrated
+My focus is on transforming raw data into meaningful business insights by following a structured analytical process:
 
-* Data Cleaning & Transformation
-* Pivot Tables & Pivot Charts
-* Power Query
-* Power Pivot
-* DAX Basics
-* KPI Reporting
-* Interactive Dashboards
-* Data Visualization
-* Business Performance Analysis
-* Decision-Making Support
+Business Problem → Data Analysis → Insights → Recommendations → Business Impact
 
-## Project Categories
+This portfolio reflects practical analytical thinking expected from a Data Analyst role.
 
-* Sales Analytics
-* HR Analytics
-* Finance Reporting
-* Supply Chain Analytics
-* Marketing Analytics
-* Business Dashboards
+Core Skills Demonstrated
+Data Preparation & Transformation
+Data Cleaning
+Data Validation
+Data Structuring
+Power Query
+Data Transformation Techniques
+Analysis & Reporting
+Pivot Tables
+Pivot Charts
+Lookup Functions (XLOOKUP, VLOOKUP, INDEX-MATCH)
+Conditional Logic (IF, SUMIF, COUNTIF, etc.)
+KPI Development
+Trend Analysis
+Variance Analysis
+Performance Monitoring
+Dashboard Development
+Interactive Dashboards
+Slicers & Dynamic Reporting
+Executive Summary Views
+Business Visualization
+Dashboard Storytelling
+Decision Support Reporting
+Business Understanding
+Problem Identification
+KPI Selection
+Root Cause Analysis
+Business Performance Analysis
+Strategic Recommendations
+Project Domains
 
-## Projects
+This portfolio focuses on three core business domains that are highly relevant for Data Analyst roles:
 
-### Project 1 – Bike Sales Dashboard
+Sales Analytics
 
-Sales Analytics project focused on customer purchase behavior, income analysis, age segmentation, and bike purchase trends using interactive Excel dashboards.
+Analyzing revenue performance, customer behavior, product trends, regional sales, and business growth opportunities.
 
-### Project 2 – Superstore Sales Dashboard
+Finance Analytics
 
-### Project 3 – Employee Attendance Tracker
+Tracking profitability, cost analysis, budget vs actual performance, variance analysis, and financial decision support.
 
-### Project 4 – Student Performance Dashboard
+HR Analytics
 
-### Project 5 – HR Analytics Dashboard
+Monitoring employee performance, attrition, hiring trends, workforce planning, and people-driven business decisions.
 
-### Project 6 – Finance Profit & Loss Report
+These domains demonstrate strong analytical thinking, KPI-driven reporting, and business-focused dashboard development.
 
-### Project 7 – Inventory Management Dashboard
+About This Portfolio
 
-### Project 8 – Customer Segmentation Analysis
+I believe analytics is not just about reporting numbers.
 
-### Project 9 – Supply Chain Performance Dashboard
+It is about identifying problems, asking the right questions, and helping businesses make better decisions using data.
 
-### Project 10 – Marketing Campaign Performance Dashboard
+This portfolio represents that mindset across every project.
 
-### Project 11 – Recruitment Analytics Dashboard
+Portfolio Project by
 
-### Project 12 – Executive Business KPI Dashboard
-
-More projects will be added regularly as part of my Data Analytics and Business Intelligence learning journey.
-
-## Career Objective
-
-Building a strong portfolio for Data Analyst, HR Analytics, Business Intelligence, and Reporting roles through practical projects and continuous learning.
-
----
-
-**Portfolio Project by Lokesh Sharma**
+Lokesh Sharma
