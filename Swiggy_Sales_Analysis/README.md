@@ -10,7 +10,7 @@ By leveraging **Advanced Excel**, I transformed raw, unstructured data into a dy
 ---
 
 ## Dashboard Preview
-
+![Swiggy Sales Dashboard](swiggy_sales_analysis_dashboards.png)
 
 
 ---
@@ -55,4 +55,4 @@ By leveraging **Advanced Excel**, I transformed raw, unstructured data into a dy
 
 ---
 
-**Project by Lokesh Sharma**
+**Project by Lokesh Kr Sharma**
